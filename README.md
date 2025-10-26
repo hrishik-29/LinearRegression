@@ -1,4 +1,4 @@
-# Task 3: Linear Regression - AI & ML Internship
+# Linear Regression
 
 ## Objective
 The objective of this task was to implement and understand both simple and multiple linear regression models. This involved hands-on experience with data preprocessing, model training, evaluation, and interpretation using Python libraries.
